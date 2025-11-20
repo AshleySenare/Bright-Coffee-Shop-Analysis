@@ -2,20 +2,20 @@
 # **☕ Bright Coffee Shop Sales Analysis**
 This project provides a detailed analysis of historical sales data from Bright Coffee Shop, developed to support the incoming CEO with insights that drive revenue growth and improve product strategy.
 
-#Project Objective
+# * Project Objective*
 Use data analytics and visualization to answer core business questions:
 Which products generate the most revenue?
 What time of day yields the highest sales?
 How do sales trends shift across product categories and time intervals?
 What actions can improve overall sales performance?
 
-#Tools & Technologies
+# * Tools & Technologies*
 SQL Platforms: Snowflake, DBeaver, Google BigQuery, SQL Developer
 Data Visualization: Microsoft Excel, Power BI, Tableau
 Planning & Presentation: Miro, Microsoft PowerPoint, Canva
 
 
-#Project Tasks
+# *Project Tasks*
 1. Planning & Architecture
 Designed the ETL workflow and data flow diagram using Miro.
 Defined KPIs and insight areas to guide the analysis.
