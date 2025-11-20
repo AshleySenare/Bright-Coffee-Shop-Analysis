@@ -38,8 +38,8 @@ Developed a data-driven narrative supported by visuals.
 Provided recommendations to optimize sales.
 Proposed future enhancements such as automation and multi-branch tracking.
 
-3Key Recommendations
-Launch targeted marketing during low-performing time slots
-Increase inventory for best-selling items
-Use promotions to boost underperforming products
-Implement loyalty programs aligned with peak customer hours
+Recommendations:
+Launch targeted marketing during low-performing time slots.
+Increase inventory for best-selling items.
+Use promotions to boost underperforming products.
+Implement loyalty programs aligned with peak customer hours.
